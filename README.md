@@ -5,7 +5,7 @@ An interactive web application built with **Streamlit** that applies Machine Lea
 ---
 
 ## 🌐 Live Demo
-👉 [Click here to view the app](https://global-stock-market-ml.streamlit.app)
+👉 [Click here to view the app](https://stockmarketml-abnwm6qugjpfkeczcdqj68.streamlit.app))
 
 ---
 
