@@ -51,7 +51,7 @@ An interactive web application built with **Streamlit** that applies Machine Lea
 - **Streamlit** — Web app framework
 - **Pandas & NumPy** — Data manipulation
 - **Scikit-learn** — Machine learning models
-- **Matplotlib & Seaborn** — Data visualization
+- **plotlib & Seaborn** — Data visualization
 - **SciPy** — Portfolio optimization
 
 ---
